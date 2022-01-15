@@ -1,3 +1,3 @@
-#!/bin/sh
+#!/bin/bash
 
 /usr/bin/touch /tmp/jayisthebest
